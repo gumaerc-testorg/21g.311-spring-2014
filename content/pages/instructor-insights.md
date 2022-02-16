@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: fb065c7a-abee-5524-b544-ccdda0b801f7
 ---
@@ -41,20 +43,6 @@ HASS-H ![](/images/educator/icon-question-hass-h.png)
 ### Offered
 
 This course is generally taught during the fall semester, but is not necessarily offered each year.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![21G-311_classroom-1.jpg]({{< resource_file 64c998de-1ed0-5056-599d-52f357d90f22 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Flat classroom with a capacity of ~25, includes modern tablet arm chairs, computer, monitor, LCD projector, screen, and wireless network. (Image courtesy of Shannon Larkin.)
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

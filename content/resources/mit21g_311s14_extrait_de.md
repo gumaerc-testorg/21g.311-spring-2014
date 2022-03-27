@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 04c6617c-6119-29c4-f3f4-8270b30cd17a
 resourcetype: Document
 title: "Extrait de \xAB Le deuxi\xE8me sexe \xBB de Simone de Beauvoir \u2013 21F.311\
   \ Spring 2014"

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course texts and the schedule
+  of readings by session and topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -11,7 +13,7 @@ uid: 04c6617c-6119-29c4-f3f4-8270b30cd17a
 
 \[Pennac\] = Pennac, Daniel_. Au bonheur des ogres_. Assimil Gmbh, 1997. ISBN: 9782070403691.
 
-\[Leblanc\] = Leblanc, Maurice. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_L'aiguille creuse_ (PDF - 1.4MB)](http://www.ebooksgratuits.com/pdf/leblanc_aiguille_creuse.pdf). 1909.
+\[Leblanc\] = Leblanc, Maurice. [_L'aiguille creuse_ (PDF - 1.4MB)](http://www.ebooksgratuits.com/pdf/leblanc_aiguille_creuse.pdf). 1909.
 
 \[Edmiston\] = Edmiston, William F., and et Duménil. _La France contemporaine_. 4th ed. Heinle Cengage Learning, 2010. ISBN: 9781428231238.
 
@@ -322,7 +324,7 @@ La femme (cont.)
 
 ### Lire
 
-Simone de Beauvoir. [_Le deuxième sexe_. Extrait (PDF)]({{< baseurl >}}/resources/mit21g_311s14_extrait_de)
+Simone de Beauvoir. {{% resource_link 666a4387-4b8e-3c2f-2feb-54f7184d9cd5 "_Le deuxième sexe_. Extrait (PDF)" %}}
 
 \[Edmiston\] « La politique familiale » and « Le mouvement féministe. » pp. 151–57.
 

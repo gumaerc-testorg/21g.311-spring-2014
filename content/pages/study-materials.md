@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to online media and resources on French culture
+  and language.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

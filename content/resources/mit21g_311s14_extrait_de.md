@@ -5,6 +5,7 @@ file: /courses/21g-311-introduction-to-french-culture-spring-2014/666a43874b8e3c
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Extrait de \xAB Le deuxi\xE8me sexe \xBB de Simone de Beauvoir \u2013 21
 uid: 666a4387-4b8e-3c2f-2feb-54f7184d9cd5
 ---
 Excerpt from "The Second Sex" by Simone de Beauvoir.
-

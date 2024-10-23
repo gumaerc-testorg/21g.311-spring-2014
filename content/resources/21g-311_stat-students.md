@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image showing the number of students enrolled in the course.
-file: /courses/21g-311-introduction-to-french-culture-spring-2014/ae918350a21b7b3d7d1fb822fc92b482_21G-311_stat-students.png
+file: /ol-ocw-studio-app/courses/21g-311-introduction-to-french-culture-spring-2014/ae918350a21b7b3d7d1fb822fc92b482_21G-311_stat-students.png
 file_size: 2866
 file_type: image/png
 image_metadata:

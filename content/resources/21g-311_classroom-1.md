@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photograph of the classroom used for the course.
-file: /courses/21g-311-introduction-to-french-culture-spring-2014/64c998de1ed05056599d52f357d90f22_21G-311_classroom-1.jpg
+file: /ol-ocw-studio-app/courses/21g-311-introduction-to-french-culture-spring-2014/64c998de1ed05056599d52f357d90f22_21G-311_classroom-1.jpg
 file_size: 38333
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Excerpt from "The Second Sex" by Simone de Beauvoir.
-file: /courses/21g-311-introduction-to-french-culture-spring-2014/666a43874b8e3c2f2feb54f7184d9cd5_MIT21G_311S14_Extrait_de.pdf
+file: /ol-ocw-studio-app/courses/21g-311-introduction-to-french-culture-spring-2014/666a43874b8e3c2f2feb54f7184d9cd5_MIT21G_311S14_Extrait_de.pdf
 file_size: 127645
 file_type: application/pdf
 learning_resource_types:

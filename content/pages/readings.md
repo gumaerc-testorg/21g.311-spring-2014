@@ -13,7 +13,7 @@ uid: 04c6617c-6119-29c4-f3f4-8270b30cd17a
 
 \[Pennac\] = Pennac, Daniel_. Au bonheur des ogres_. Assimil Gmbh, 1997. ISBN: 9782070403691.
 
-\[Leblanc\] = Leblanc, Maurice. {{% resource_link "134157b0-c0f9-4e33-8e24-e75b837df0f6" "_L'aiguille creuse_ (PDF - 1.4MB)" %}}. 1909.
+\[Leblanc\] = Leblanc, Maurice. [_L'aiguille creuse_ (PDF - 1.4MB)](http://www.ebooksgratuits.com/pdf/leblanc_aiguille_creuse.pdf). 1909.
 
 \[Edmiston\] = Edmiston, William F., and et Duménil. _La France contemporaine_. 4th ed. Heinle Cengage Learning, 2010. ISBN: 9781428231238.
 
@@ -79,7 +79,7 @@ La France et les types
 
 ### Lire
 
-Christian Roudaut. « {{% resource_link "854c65b8-2546-4e81-9955-ac8b2fb3f5b9" "Si douce France" %}} » _M le magazine du Monde_. 3 janvier 2014.
+Christian Roudaut. « [Si douce France](http://www.lemonde.fr/le-magazine/article/2014/01/03/si-douce-france_4341969_1616923.html) » _M le magazine du Monde_. 3 janvier 2014.
 
 Balzac, Honoré de. « La fille aux yeux d'or. » En _La comédie humaine_. _Études de mœurs: Scéne de la vie parisienne_. Kessinger Publishing, 2005, pp. 1039–54. ISBN: 9781419175817.
 
@@ -119,7 +119,7 @@ La flâneuse
 
 ### En classe
 
-Film: « {{% resource_link "cdd13dfb-2c18-4518-a7da-0839ea2e414a" "_Cléo de 5 à 7_" %}}. » Directed by Varda, Agnès. Black & White / Color, 89 min. 1962.
+Film: « [_Cléo de 5 à 7_](http://www.criterion.com/films/244-cleo-from-5-to-7). » Directed by Varda, Agnès. Black & White / Color, 89 min. 1962.
 
 ### Lire
 
@@ -165,9 +165,9 @@ Le criminel : Arsène Lupin
 
 ### Ecouter
 
-Matthieu Garrigou-Lagrange. _Grande traversée Été 1913_ « {{% resource_link "18be24ed-08d8-476f-beb7-583ab05ec461" "Dans le Paris 1913" %}} » sur _France Culture_. 1 août 2013.
+Matthieu Garrigou-Lagrange. _Grande traversée Été 1913_ « [Dans le Paris 1913](http://www.franceculture.fr/emission-grande-traversee-ete-1913-doc-dans-le-paris-1913-2013-08-01) » sur _France Culture_. 1 août 2013.
 
-Livre audio: {{% resource_link "d7c1a51b-0ec3-4b09-b683-5a56172f0d3d" "L'aiguille creuse, _de_ Maurice Leblanc." %}} bibliboom.com. 10 février 2014.
+Livre audio: [L'aiguille creuse, _de_ Maurice Leblanc.](http://www.bibliboom.com/pages/titres/l-aiguille-creuse-maurice-leblanc-livres-audio-gratuits-a-telecharger-mp3-bibliboom-com.html) bibliboom.com. 10 février 2014.
 
 
 {{< tdclose >}}
@@ -304,9 +304,9 @@ La femme
 
 Christin, Pierre, and Annie Goetzinger. _Agence Hardy: Le parfum disparu_. Dargaud, 2001. ISBN: 9782205049398.
 
-Jean-Claude Loiseau et Stéphane Jarno. « {{% resource_link "6bc71110-1d59-49ec-b680-3a3df0b2bd78" "La boom de la BD en France" %}} » _Livres : Télérama_. 29 janvier 2011.
+Jean-Claude Loiseau et Stéphane Jarno. « [La boom de la BD en France](http://www.telerama.fr/) » _Livres : Télérama_. 29 janvier 2011.
 
-David Barroux « {{% resource_link "661e0a0a-e1f6-4d8e-9add-72ed60db38dd" "Comment la France est devenue la terre d'accueil de la BD" %}} » _Les Echos_. 30 janvier 2014.
+David Barroux « [Comment la France est devenue la terre d'accueil de la BD](http://www.lesechos.fr/30/01/2014/LesEchos/21616-049-ECH_comment-la-france-est-devenue-la-terre-d-accueil-de-la-bd.htm) » _Les Echos_. 30 janvier 2014.
 
 
 {{< tdclose >}}
@@ -348,11 +348,11 @@ La Marianne
 
 \[Wylie\] « Les symbols » pp. 254–60.
 
-Gouges, Olympe de. « {{% resource_link "0cd928a3-564b-4b57-a7b1-28d17611f6b2" "Déclaration des droits de la femme et de la citoyenne" %}}. » 1791.
+Gouges, Olympe de. « [Déclaration des droits de la femme et de la citoyenne](http://fr.wikisource.org/wiki/D%C3%A9claration_des_droits_de_la_femme_et_de_la_citoyenne). » 1791.
 
 ### Regarder
 
-Gilbert Larriaga et Adam Saulnier « {{% resource_link "4c601a16-3eea-4b03-8111-270f86f5d2be" "Portrait de la République" %}} » _Institut national de l'audiovisuel_. Panorama et office national de radiodiffusion télévision française. 11 mars 1966.
+Gilbert Larriaga et Adam Saulnier « [Portrait de la République](http://www.ina.fr/video/CAF86013964/portrait-de-la-republique-video.html) » _Institut national de l'audiovisuel_. Panorama et office national de radiodiffusion télévision française. 11 mars 1966.
 
 
 {{< tdclose >}}
@@ -370,17 +370,17 @@ La Marianne (cont.)
 
 ### Lire
 
-Cécile Dehesdin « {{% resource_link "0eb42e08-1b01-4e56-91bf-6203b17d9310" "Marianne et le voile abonnes unes de Valeurs actuelles" %}} » _Slate_. 25 septembre 2013.
+Cécile Dehesdin « [Marianne et le voile abonnes unes de Valeurs actuelles](http://www.slate.fr/france/78194/valeurs-actuelles-passion-voile-islam-immigration-photos) » _Slate_. 25 septembre 2013.
 
-Jean-Louis Debré « {{% resource_link "7711fcae-8fe5-48ca-b898-33b8a0843ac5" "L’Assemblée nationale, ultime étape de la Marche des femmes des quartiers contre les ghettos et pour l’égalité" %}}. » Allocution du Président de l' Assemblée nationale lors de l'Inauguration de l'exposition « Mariannes d'aujourd'hui. » le 12 juillet 2003.
+Jean-Louis Debré « [L’Assemblée nationale, ultime étape de la Marche des femmes des quartiers contre les ghettos et pour l’égalité](http://www.assemblee-nationale.fr/evenements/mariannes.asp). » Allocution du Président de l' Assemblée nationale lors de l'Inauguration de l'exposition « Mariannes d'aujourd'hui. » le 12 juillet 2003.
 
 ### Regarder
 
-Adam Saulnier « {{% resource_link "0fa2b1c0-2b32-4312-aeb4-6950f4b44ecb" "Magazine : Marianne" %}} »  _Institut national de l'audiovisuel_. JT 13H et office national de radiodiffusion télévision française. 8 mai 1974.
+Adam Saulnier « [Magazine : Marianne](http://www.ina.fr/video/CAF92006418/magazine-marianne-video.html) »  _Institut national de l'audiovisuel_. JT 13H et office national de radiodiffusion télévision française. 8 mai 1974.
 
-Arnaud Boutet « {{% resource_link "f2ffb921-0a46-4b4b-9b44-bc2fea09cdf9" "Vente des Mariannes" %}} » _Institut national de l'audiovisuel_. 13 heures le journal et France 2. 23 novembre 2000.
+Arnaud Boutet « [Vente des Mariannes](http://www.ina.fr/video/CAB00060038/vente-des-marianne-video.html) » _Institut national de l'audiovisuel_. 13 heures le journal et France 2. 23 novembre 2000.
 
-Laurent Dy et Elise Lucet « {{% resource_link "23eb854a-d68a-4065-97bb-fa7c8ed73133" "Nouvelle Marianne anonyme" %}} » _Institut national de l'audiovisuel._ 13 heures et France 2. 22 novembre 2005.
+Laurent Dy et Elise Lucet « [Nouvelle Marianne anonyme](http://www.ina.fr/video/2971157001031/nouvelle-marianne-anonyme-video.html) » _Institut national de l'audiovisuel._ 13 heures et France 2. 22 novembre 2005.
 
 
 {{< tdclose >}}
@@ -434,7 +434,7 @@ Le français contemporain : Benjamin Malaussène (cont.)
 
 \[Pennac\] pp. 36–80.
 
-Zola, Emile. {{% resource_link "8e38617d-3211-466a-9b75-69e972c363ba" "« _Au Bonheur des dames._ _»_ (PDF - 2.1MB)" %}} pp. 3–7, 1883. (Lisez au moins de « Mais Denise demeurait absorbée. » sur la page 4 jusqu'à « à la place des têtes. » sur la page 7. Si vous êtes courageux, lisez tout l'extrait.)
+Zola, Emile. [« _Au Bonheur des dames._ _»_ (PDF - 2.1MB)](http://www.ebooksgratuits.com/newsendbook.php?id=665&format=pdf) pp. 3–7, 1883. (Lisez au moins de « Mais Denise demeurait absorbée. » sur la page 4 jusqu'à « à la place des têtes. » sur la page 7. Si vous êtes courageux, lisez tout l'extrait.)
 
 
 {{< tdclose >}}
